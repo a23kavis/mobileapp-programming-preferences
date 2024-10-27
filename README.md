@@ -1,5 +1,5 @@
 
-# Rapport
+# Rapport 
 För att skicka min kod igenom views behövde jag använda mig av onResume vilket är ett väldigt användbart verktyg då jag inte behöver ladda om appen för att se sparad data.
 Med onResume så tar jag emot data som jag skickar från SecondActivity genom att lagra det i shared preferences. 
 Datan visas sedan upp i en textview som synes i figurerna nedan.
